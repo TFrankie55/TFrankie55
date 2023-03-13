@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TFrankie55
-- 👀 I’m interested in java and python
+- 👀 I’m interested in javascript and python
 - 🌱 I’m currently learning the basics of programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
