@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TFrankie55
 - 👀 I’m interested in javascript and python
-- 🌱 I’m a graduate of ALX software engineering
+- 🌱 I’m a graduate of ALX Africa software engineering
 - 💞️ I’m looking to collaborate on open source projects and hackathons.
 - 📫 How to reach me ...
   towoeye50@gmail.com
